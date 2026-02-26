@@ -18,7 +18,6 @@ User usama: Token_id: 0035135
 User Munna: Token_id: 0039789
 User Kenny Nguyen: Token_id: 0033293
 User misayg Token_id: 0035055
-User Kamal Pasha: Token_id: 0034094
 User Fulano De Tal: Token_id: 0036726
 User Kamal: Token_id: 0098094 | Start: 2026-02-26 | End: 2026-03-14
 User kamal hyper: Token_id: 0034094 | Start: 2026-02-26 | End: 2026-03-14
