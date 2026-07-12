@@ -45,4 +45,4 @@ User Dark Star : Token_id: 0053506 | Start: 2026-03-21 | End: 2026-07-23
 User Dark Star : Token_id: 0019831 | Start: 2026-03-21 | End: 2026-07-24
 User Dark Star : Token_id: 0019831 | Start: 2026-07-08 | End: 2026-08-08
 User BKzero : Token_id: 0017977 | Start: 2026-07-12 | End: 2026-09-12
-THUNDER_SUPER_BYPASS
+User Thunder Teaster : Token_id: THUNDER_SUPER_BYPASS| Start: 2026-03-21 | End: 2026-04-24
